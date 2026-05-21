@@ -1,0 +1,4 @@
+-- Question 34: Show all products in the Accessories category with price less than ₱1,500
+SELECT * from products
+WHERE category = "Accessories" AND price < 1500
+-- Result: 3 rows returned

@@ -3,14 +3,14 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "DAY_5_TEST",
-            "database": "C:\\Users\\GESTAAC\\Desktop\\NCIC\\Day04_practice.db"
+            "name": "Urban_Brew",
+            "database": "./urban_brew.db"
         },
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Urban_Brew",
-            "database": "./urban_brew.db"
+            "name": "Day04_practice",
+            "database": "C:\\Users\\GESTAAC\\Desktop\\NCIC\\Day04_practice.db"
         }
     ]
 }
